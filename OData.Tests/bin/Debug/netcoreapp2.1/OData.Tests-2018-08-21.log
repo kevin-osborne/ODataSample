@@ -1,0 +1,262 @@
+2018-08-21 22:03:32.3035 INFO [SampleObjectController.DownloadSampleObject] called with id: 1/content
+2018-08-21 22:03:32.3233 ERROR [SampleObjectController] Get
+2018-08-21 22:03:32.3233 INFO [SampleObjectController: Get
+2018-08-21 22:03:32.4081 INFO [SampleObjectController: Get
+2018-08-21 22:03:32.4098 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:03:32.4098 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:03:32.4098 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:03:32.4374 INFO [SampleObjectController.DownloadSampleObject] called with id: 2/content
+2018-08-21 22:03:32.4374 ERROR [SampleObjectController] Get
+2018-08-21 22:03:32.4374 INFO [SampleObjectController: Get
+2018-08-21 22:03:32.4705 INFO [SampleObjectController: Get
+2018-08-21 22:03:32.4705 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:03:32.4705 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:03:32.4729 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:03:32.9618 INFO [SampleObjectController.DownloadSampleObject] called with id: 1
+2018-08-21 22:03:32.9621 ERROR [SampleObjectController] Get
+2018-08-21 22:03:32.9621 INFO [SampleObjectController: Get
+2018-08-21 22:04:33.4125 INFO [SampleObjectController.DownloadSampleObject] called with id: 1/content
+2018-08-21 22:04:33.4305 ERROR [SampleObjectController] Get
+2018-08-21 22:04:33.4305 INFO [SampleObjectController: Get
+2018-08-21 22:04:33.5171 INFO [SampleObjectController: Get
+2018-08-21 22:04:33.5171 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:04:33.5171 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:04:33.5192 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:04:33.5480 INFO [SampleObjectController.DownloadSampleObject] called with id: 2/content
+2018-08-21 22:04:33.5480 ERROR [SampleObjectController] Get
+2018-08-21 22:04:33.5480 INFO [SampleObjectController: Get
+2018-08-21 22:04:33.5776 INFO [SampleObjectController: Get
+2018-08-21 22:04:33.5776 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:04:33.5776 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:04:33.5803 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:04:34.0270 INFO [SampleObjectController.DownloadSampleObject] called with id: 1
+2018-08-21 22:04:34.0270 ERROR [SampleObjectController] Get
+2018-08-21 22:04:34.0270 INFO [SampleObjectController: Get
+2018-08-21 22:05:58.5415 INFO [SampleObjectController.DownloadSampleObject] called with id: 1/content
+2018-08-21 22:05:58.5594 ERROR [SampleObjectController] Get
+2018-08-21 22:05:58.5594 INFO [SampleObjectController: Get
+2018-08-21 22:05:58.6426 INFO [SampleObjectController: Get
+2018-08-21 22:05:58.6426 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:05:58.6426 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:05:58.6426 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:05:58.6748 INFO [SampleObjectController.DownloadSampleObject] called with id: 2/content
+2018-08-21 22:05:58.6748 ERROR [SampleObjectController] Get
+2018-08-21 22:05:58.6748 INFO [SampleObjectController: Get
+2018-08-21 22:05:58.7016 INFO [SampleObjectController: Get
+2018-08-21 22:05:58.7016 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:05:58.7016 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:05:58.7042 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:06:51.2351 INFO [SampleObjectController.DownloadSampleObject] called with id: 1/content
+2018-08-21 22:06:51.2562 ERROR [SampleObjectController] Get
+2018-08-21 22:06:51.2562 INFO [SampleObjectController: Get
+2018-08-21 22:06:51.3696 INFO [SampleObjectController: Get
+2018-08-21 22:06:51.3728 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:06:51.3728 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:06:51.3728 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:06:51.4127 INFO [SampleObjectController.DownloadSampleObject] called with id: 2/content
+2018-08-21 22:06:51.4127 ERROR [SampleObjectController] Get
+2018-08-21 22:06:51.4127 INFO [SampleObjectController: Get
+2018-08-21 22:06:51.4483 INFO [SampleObjectController: Get
+2018-08-21 22:06:51.4483 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:06:51.4483 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:06:51.4510 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:06:51.9632 INFO [SampleObjectController.DownloadSampleObject] called with id: 1
+2018-08-21 22:06:51.9632 ERROR [SampleObjectController] Get
+2018-08-21 22:06:51.9632 INFO [SampleObjectController: Get
+2018-08-21 22:07:28.4520 INFO [SampleObjectController.DownloadSampleObject] called with id: 1/content
+2018-08-21 22:07:28.4706 ERROR [SampleObjectController] Get
+2018-08-21 22:07:28.4706 INFO [SampleObjectController: Get
+2018-08-21 22:07:28.5556 INFO [SampleObjectController: Get
+2018-08-21 22:07:28.5556 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:07:28.5556 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:07:28.5556 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:07:28.5878 INFO [SampleObjectController.DownloadSampleObject] called with id: 2/content
+2018-08-21 22:07:28.5878 ERROR [SampleObjectController] Get
+2018-08-21 22:07:28.5878 INFO [SampleObjectController: Get
+2018-08-21 22:07:28.6164 INFO [SampleObjectController: Get
+2018-08-21 22:07:28.6164 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:07:28.6164 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:07:28.6189 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:08:30.1471 INFO [SampleObjectController.DownloadSampleObject] called with id: 1/content
+2018-08-21 22:08:30.1659 ERROR [SampleObjectController] Get
+2018-08-21 22:08:30.1659 INFO [SampleObjectController: Get
+2018-08-21 22:08:30.2486 INFO [SampleObjectController: Get
+2018-08-21 22:08:30.2503 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:08:30.2503 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:08:30.2503 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:08:30.2843 INFO [SampleObjectController.DownloadSampleObject] called with id: 2/content
+2018-08-21 22:08:30.2843 ERROR [SampleObjectController] Get
+2018-08-21 22:08:30.2843 INFO [SampleObjectController: Get
+2018-08-21 22:08:30.3081 INFO [SampleObjectController: Get
+2018-08-21 22:08:30.3081 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:08:30.3081 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:08:30.3111 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:08:30.7233 DEBUG [ODataPayloadSerializer.WriteObject] type: Microsoft.OData.ODataServiceDocument
+2018-08-21 22:08:30.8177 INFO [TestMetadata]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata","value":[{"name":"sampleobject","kind":"EntitySet","url":"sampleobject"}]}
+2018-08-21 22:09:15.6463 INFO [SampleObjectController.DownloadSampleObject] called with id: 1/content
+2018-08-21 22:09:15.6666 ERROR [SampleObjectController] Get
+2018-08-21 22:09:15.6666 INFO [SampleObjectController: Get
+2018-08-21 22:09:15.7557 INFO [SampleObjectController: Get
+2018-08-21 22:09:15.7557 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:09:15.7557 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:09:15.7557 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:09:15.7875 INFO [SampleObjectController.DownloadSampleObject] called with id: 2/content
+2018-08-21 22:09:15.7875 ERROR [SampleObjectController] Get
+2018-08-21 22:09:15.7875 INFO [SampleObjectController: Get
+2018-08-21 22:09:15.8118 INFO [SampleObjectController: Get
+2018-08-21 22:09:15.8118 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:09:15.8118 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:09:15.8143 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:09:16.0723 INFO [SampleObjectController: Get
+2018-08-21 22:09:16.1754 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:09:16.4152 INFO [TestEntitySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/1/content","@odata.mediaContentType":"application/pdf","Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0},{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:09:16.4779 DEBUG [ODataPayloadSerializer.WriteObject] type: Microsoft.OData.ODataServiceDocument
+2018-08-21 22:09:16.4844 INFO [TestMetadata]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata","value":[{"name":"sampleobject","kind":"EntitySet","url":"sampleobject"}]}
+2018-08-21 22:09:16.5156 INFO [SampleObjectController: Get
+2018-08-21 22:09:16.6529 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:09:16.6967 INFO [TestQuerySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:09:16.8668 INFO [SampleObjectController: Get
+2018-08-21 22:09:16.8668 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:09:16.8695 INFO [TestMediaLinkSampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:11:10.7538 INFO [SampleObjectController.DownloadSampleObject] called with id: ?
+2018-08-21 22:11:10.7721 ERROR [SampleObjectController] Get
+2018-08-21 22:11:10.7721 INFO [SampleObjectController: Get
+2018-08-21 22:11:10.9165 INFO [SampleObjectController: Get
+2018-08-21 22:11:10.9165 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:11:10.9165 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:11:10.9191 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:11:10.9574 INFO [SampleObjectController: Get
+2018-08-21 22:11:10.9574 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:11:10.9574 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:11:10.9604 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:11:11.2660 INFO [SampleObjectController: Get
+2018-08-21 22:11:11.3901 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:11:11.6197 INFO [TestEntitySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/1/content","@odata.mediaContentType":"application/pdf","Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0},{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:11:11.6708 DEBUG [ODataPayloadSerializer.WriteObject] type: Microsoft.OData.ODataServiceDocument
+2018-08-21 22:11:11.6761 INFO [TestMetadata]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata","value":[{"name":"sampleobject","kind":"EntitySet","url":"sampleobject"}]}
+2018-08-21 22:11:11.7012 INFO [SampleObjectController: Get
+2018-08-21 22:11:11.8173 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:11:11.8228 INFO [TestQuerySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:11:11.9690 INFO [SampleObjectController: Get
+2018-08-21 22:11:11.9690 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:11:11.9690 INFO [TestMediaLinkSampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:13:35.5649 INFO [SampleObjectController.DownloadSampleObject] called with id: ?
+2018-08-21 22:13:35.5829 ERROR [SampleObjectController] Get
+2018-08-21 22:13:35.5829 INFO [SampleObjectController: Get
+2018-08-21 22:13:35.6689 INFO [SampleObjectController: Get
+2018-08-21 22:13:35.6689 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:13:35.6689 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:13:35.6689 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:13:35.6985 INFO [SampleObjectController: Get
+2018-08-21 22:13:35.6985 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:13:35.6985 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:13:35.7010 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:13:35.9745 INFO [SampleObjectController: Get
+2018-08-21 22:13:36.0779 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:13:36.3072 INFO [TestEntitySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/1/content","@odata.mediaContentType":"application/pdf","Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0},{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:13:36.3650 DEBUG [ODataPayloadSerializer.WriteObject] type: Microsoft.OData.ODataServiceDocument
+2018-08-21 22:13:36.3711 INFO [TestMetadata]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata","value":[{"name":"sampleobject","kind":"EntitySet","url":"sampleobject"}]}
+2018-08-21 22:13:36.3965 INFO [SampleObjectController: Get
+2018-08-21 22:13:36.5158 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:13:36.5209 INFO [TestQuerySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:13:36.6392 INFO [SampleObjectController: Get
+2018-08-21 22:13:36.6392 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:13:36.6392 INFO [TestMediaLinkSampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:16:00.2821 INFO [SampleObjectController.DownloadSampleObject] called with id: ?
+2018-08-21 22:16:00.2943 INFO [TestSampleObjectDownload_1]: Microsoft.AspNetCore.Mvc.FileStreamResult
+2018-08-21 22:16:00.2943 INFO [TestSampleObjectDownload_1]: pdf-sample.pdf
+2018-08-21 22:16:00.2943 INFO [TestSampleObjectDownload_1]: application/pdf
+2018-08-21 22:16:00.2943 INFO [TestSampleObjectDownload_1]: 7945
+2018-08-21 22:16:00.3983 INFO [SampleObjectController: Get
+2018-08-21 22:16:00.3983 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:16:00.3983 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:16:00.3983 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:16:00.4280 INFO [SampleObjectController: Get
+2018-08-21 22:16:00.4280 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:16:00.4280 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:16:00.4323 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:16:00.7006 INFO [SampleObjectController: Get
+2018-08-21 22:16:00.8096 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:16:01.0414 INFO [TestEntitySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/1/content","@odata.mediaContentType":"application/pdf","Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0},{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:16:01.1021 DEBUG [ODataPayloadSerializer.WriteObject] type: Microsoft.OData.ODataServiceDocument
+2018-08-21 22:16:01.1081 INFO [TestMetadata]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata","value":[{"name":"sampleobject","kind":"EntitySet","url":"sampleobject"}]}
+2018-08-21 22:16:01.1339 INFO [SampleObjectController: Get
+2018-08-21 22:16:01.2547 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:16:01.2600 INFO [TestQuerySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:16:01.3957 INFO [SampleObjectController: Get
+2018-08-21 22:16:01.3957 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:16:01.3957 INFO [TestMediaLinkSampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:17:06.7285 INFO [SampleObjectController.DownloadSampleObject] called with id: ?
+2018-08-21 22:17:06.7406 INFO [TestSampleObjectDownload_1]: Microsoft.AspNetCore.Mvc.FileStreamResult
+2018-08-21 22:17:06.7406 INFO [TestSampleObjectDownload_1]: pdf-sample.pdf
+2018-08-21 22:17:06.7406 INFO [TestSampleObjectDownload_1]: application/pdf
+2018-08-21 22:17:06.7406 INFO [TestSampleObjectDownload_1]: 7945
+2018-08-21 22:17:06.8219 INFO [SampleObjectController: Get
+2018-08-21 22:17:06.8219 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:17:06.8219 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:17:06.8219 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:17:06.8527 INFO [SampleObjectController: Get
+2018-08-21 22:17:06.8527 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:17:06.8527 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:17:06.8527 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:17:07.1561 INFO [SampleObjectController: Get
+2018-08-21 22:17:07.2789 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:17:07.5299 INFO [TestEntitySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/1/content","@odata.mediaContentType":"application/pdf","Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0},{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:17:07.5786 DEBUG [ODataPayloadSerializer.WriteObject] type: Microsoft.OData.ODataServiceDocument
+2018-08-21 22:17:07.5935 INFO [TestMetadata]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata","value":[{"name":"sampleobject","kind":"EntitySet","url":"sampleobject"}]}
+2018-08-21 22:17:07.6319 INFO [SampleObjectController: Get
+2018-08-21 22:17:07.7653 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:17:07.7712 INFO [TestQuerySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:17:07.9147 INFO [SampleObjectController: Get
+2018-08-21 22:17:07.9170 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:17:07.9170 INFO [TestMediaLinkSampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:19:51.1431 INFO [SampleObjectController.DownloadSampleObject] called with id: ?
+2018-08-21 22:19:51.1546 INFO [TestSampleObjectDownload_1]: Microsoft.AspNetCore.Mvc.FileStreamResult
+2018-08-21 22:19:51.1546 INFO [TestSampleObjectDownload_1]: pdf-sample.pdf
+2018-08-21 22:19:51.1546 INFO [TestSampleObjectDownload_1]: application/pdf
+2018-08-21 22:19:51.1546 INFO [TestSampleObjectDownload_1]: 7945
+2018-08-21 22:19:51.2417 INFO [SampleObjectController: Get
+2018-08-21 22:19:51.2417 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:19:51.2417 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:19:51.2417 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:19:51.2649 INFO [SampleObjectController: Get
+2018-08-21 22:19:51.2649 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:19:51.2649 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:19:51.2675 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:19:51.5554 INFO [SampleObjectController: Get
+2018-08-21 22:19:51.6653 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:19:51.8863 INFO [TestEntitySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/1/content","@odata.mediaContentType":"application/pdf","Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0},{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:19:51.9277 DEBUG [ODataPayloadSerializer.WriteObject] type: Microsoft.OData.ODataServiceDocument
+2018-08-21 22:19:51.9341 INFO [TestMetadata]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata","value":[{"name":"sampleobject","kind":"EntitySet","url":"sampleobject"}]}
+2018-08-21 22:19:51.9777 INFO [SampleObjectController: Get
+2018-08-21 22:19:52.0961 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:19:52.1010 INFO [TestQuerySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:19:52.2226 INFO [SampleObjectController.DownloadSampleObject] called with id: 1
+2018-08-21 22:19:52.3064 INFO [SampleObjectController: Get
+2018-08-21 22:19:52.3064 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:19:52.3098 INFO [TestMediaLinkSampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:20:17.6312 INFO [SampleObjectController.DownloadSampleObject] called with id: ?
+2018-08-21 22:20:17.6438 INFO [TestSampleObjectDownload_1]: Microsoft.AspNetCore.Mvc.FileStreamResult
+2018-08-21 22:20:17.6438 INFO [TestSampleObjectDownload_1]: pdf-sample.pdf
+2018-08-21 22:20:17.6438 INFO [TestSampleObjectDownload_1]: application/pdf
+2018-08-21 22:20:17.6438 INFO [TestSampleObjectDownload_1]: 7945
+2018-08-21 22:20:17.7257 INFO [SampleObjectController: Get
+2018-08-21 22:20:17.7257 INFO [TestSampleObjectGet_1]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:20:17.7257 INFO [TestSampleObjectGet_1]: 2
+2018-08-21 22:20:17.7257 INFO [TestSampleObjectGet_1]: 1
+2018-08-21 22:20:17.7503 INFO [SampleObjectController: Get
+2018-08-21 22:20:17.7503 INFO [TestSampleObjectGetList]: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:20:17.7503 INFO [TestSampleObjectGetList]: 2
+2018-08-21 22:20:17.7529 INFO [TestSampleObjectGetList]: {"Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0}
+2018-08-21 22:20:18.0336 INFO [SampleObjectController: Get
+2018-08-21 22:20:18.1389 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:20:18.3597 INFO [TestEntitySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/1/content","@odata.mediaContentType":"application/pdf","Id":1,"SampleProperty":"Sample1","AnotherProperty":"Another1","PDFLength":0},{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:20:18.4038 DEBUG [ODataPayloadSerializer.WriteObject] type: Microsoft.OData.ODataServiceDocument
+2018-08-21 22:20:18.4177 INFO [TestMetadata]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata","value":[{"name":"sampleobject","kind":"EntitySet","url":"sampleobject"}]}
+2018-08-21 22:20:18.4481 INFO [SampleObjectController: Get
+2018-08-21 22:20:18.5663 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:20:18.5714 INFO [TestQuerySampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
+2018-08-21 22:20:18.6845 INFO [SampleObjectController.DownloadSampleObject] called with id: 1
+2018-08-21 22:20:18.7416 INFO [SampleObjectController: Get
+2018-08-21 22:20:18.7427 DEBUG [ODataPayloadSerializer.WriteObject] type: System.Collections.Generic.List`1[OData.Models.SampleObject]
+2018-08-21 22:20:18.7427 INFO [TestMediaLinkSampleObject]: responseString: {"@odata.context":"http://localhost/odata/api/data/$metadata#sampleobject","value":[{"@odata.mediaReadLink":"http://localhost/odata/api/data/sampleobject/2/content","@odata.mediaContentType":"application/pdf","Id":2,"SampleProperty":"Sample2","AnotherProperty":"Another2","PDFLength":0}]}
